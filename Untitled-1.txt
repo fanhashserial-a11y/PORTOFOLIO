@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+    string nama;
+    string kelas;
+    string nama_bapak;
+
+    cout << "Nama: ";
+    cin >> nama;
+
+    cout << "kelas: ";
+    cin >> kelas;
+
+    cout << "Nama Bapak: ";
+    cin >> nama_ba;
+
+
+    return 0;
+}
